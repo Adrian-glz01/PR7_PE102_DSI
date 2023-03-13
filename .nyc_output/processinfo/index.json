@@ -1,1 +1,0 @@
-{"processes":{"0a086198-a6e9-451b-ba7f-b2952605dfc8":{"parent":null,"children":["8445347d-8e45-4b41-bf4a-906f22be8203"]},"8445347d-8e45-4b41-bf4a-906f22be8203":{"parent":"0a086198-a6e9-451b-ba7f-b2952605dfc8","children":[]}},"files":{"/home/usuario/PR7_PE102_DSI/src/randomNumber/randomNumberClass.ts":["8445347d-8e45-4b41-bf4a-906f22be8203"]},"externalIds":{}}
